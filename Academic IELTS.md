@@ -1,0 +1,1 @@
+This is the master note for this section. Only the four main skill notes(Listening, Reading, Writing and Speaking) must reference it directly, while all of the remaining notes should link to one of these four categories
