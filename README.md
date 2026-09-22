@@ -1,5 +1,5 @@
 # IELTS-Academic
-This repository is essentially a folder taken from my Obsidian app and placed here. To derive full benefit, you should open it with Obsidian for the graph view, but any Markdown reader will basically do.
+This repository is essentially a folder taken from my Obsidian app and placed here. To derive full benefit, you should open it with Obsidian for the graph view, but any Markdown reader will basically do(you will have to open all the images for the tasks by yourself).
 
 The main goal of this repository is to structure all of my knowledge about the IELTS exam into a folder that potentially anyone could use.
 
