@@ -17,11 +17,13 @@ The proportion of household waste that was recycled has increased in every prese
 **My version corrected by gemini**:
 The proportion of household waste that was recycled **increased**(Present Perfect is incorrect here because the period of time in the task (2005-2015) has already passed. Past Simple is the correct way) across all four countries **over the period shown**(throughout the years is not stylistically appropriate). The percentage of recycled waste in Brazil **remained the lowest**(Past Simple because the time has passed, lowest is grammatically correct for percentages), while **figures** in Canada and Japan were roughly on the same level, with Japan's **rates** being slightly **higher**. Germany **recorded** the **highest recycling rate in all three years**
 
+### First body paragraph.
+
 
 #### Vocabulary for paraphrasing
 Table - Chart
 Shows - Illustrates/Demonstrates
-Percentage - Proportion
+Percentage - Proportion/figures/rates
 Waste - Rubbish
 Countries - Nations
 
