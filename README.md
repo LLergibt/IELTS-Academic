@@ -5,6 +5,6 @@ The main goal of this repository is to structure all of my knowledge about the I
 
 This folder is structured the way I find useful, so it may not be for you.
 
-Yet i still think it can be of help for a lot of people. I could see someone going through the same tasks I have presented in the files and using an LLM to check for grammatical and other mistakes.
+Yet i still think it can be of help for some people. I could see someone going through the same tasks I have presented in the files and using an LLM to check for grammatical and other mistakes.
 
 But you can use it however you like. It's up to you.
