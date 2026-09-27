@@ -12,7 +12,20 @@ Shows - Illustrates/Demonstrates
 Percentage - Proportion/figures/rates
 Countries - Nations
 
+#### Grammar
+
+##### Things in grammar i should work on now
+
+1. **Articles**. The biggest problem with my problem right now is the articles. I should work on them
+2. **Prepostions**
 
 
+
+
+
+
+
+
+tackling my biggest problem is what i need to do. I should correct my grammar and resolve problems with my vocabulary. I know a lot of words but cant find them when i need them, cant remember them at the time
 
 [[Academic IELTS]]
