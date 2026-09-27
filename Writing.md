@@ -14,10 +14,11 @@ Countries - Nations
 
 #### Grammar
 
-##### Things in grammar i should work on now
+##### Things i should work on right now
 
 1. **Articles**
-2. **Prepostions**
+2. **Prepositions**
+3. **Expand my vocabulary**
 
 
 
@@ -26,6 +27,6 @@ Countries - Nations
 
 
 
-tackling my biggest problem is what i need to do. I should correct my grammar and resolve problems with my vocabulary. I know a lot of words but cant find them when i need them, cant remember them at the time
+
 
 [[Academic IELTS]]
