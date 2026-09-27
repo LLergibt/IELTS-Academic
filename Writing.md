@@ -16,7 +16,7 @@ Countries - Nations
 
 ##### Things in grammar i should work on now
 
-1. **Articles**. The biggest problem with my problem right now is the articles. I should work on them
+1. **Articles**
 2. **Prepostions**
 
 
